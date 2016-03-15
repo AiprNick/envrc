@@ -1,7 +1,15 @@
 # vimrc
-my simple configuration of VIM
+My simple configuration of VIM
 
-# Setup
-1. git clone https://github.com/AiprNick/vimrc.git .vim
+# Setup - Ubuntu
+$ sudo apt-get install exuberant-ctags
 
-2. ln -s ~/.vim/vimrc ~/.vimrc
+$ sudo apt-get install cscope
+
+$ git clone https://github.com/AiprNick/vimrc.git ~/.vim
+
+$ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+
+$ vim +PluginInstall +qall
+
+$ ln -s ~/.vim/vimrc ~/.vimrc
