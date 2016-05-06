@@ -8,7 +8,7 @@ $ sudo apt-get/brew install exuberant-ctags/ctags
 
 $ sudo apt-get/brew install cscope
 
-$ git clone https://github.com/AiprNick/vimrc.git ~/.vim
+$ git clone https://github.com/AiprNick/envrc.git ~/.vim
 
 $ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
