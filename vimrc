@@ -64,5 +64,5 @@ filetype plugin indent on     " required
 	set cursorline        "show cursor's current location
 	set history=100        "keep n historical commands
 	set confirm           "ask when conflict occurs
-
+	set backspace=indent,eol,start
 
